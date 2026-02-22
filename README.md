@@ -4,7 +4,11 @@ A graphical calculator built in C++ with Qt6, featuring a full mathematical expr
 
 ## Demo
 
-*Coming soon*
+
+
+https://github.com/user-attachments/assets/2ed98e5b-a1cd-456f-9774-4460fa1ef4c3
+
+
 
 ## Features
 
