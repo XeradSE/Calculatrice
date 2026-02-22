@@ -51,7 +51,7 @@ This project was developed using **VSCode with the CMake Tools extension**. Ther
 
 ```bash
 # Clone the repository
-git clone https://github.com/xeradse/Calculatrice.git
+git clone https://github.com/XeradSE/Calculatrice.git
 cd Calculatrice
 
 # Configure and build
