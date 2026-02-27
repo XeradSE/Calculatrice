@@ -47,8 +47,6 @@ The project is split into three clearly separated layers:
 
 **Requirements:** g++ or clang++, CMake 3.16+, Qt6
 
-This project was developed using **VSCode with the CMake Tools extension**. There is no Makefile — CMake generates the build files automatically.
-
 ```bash
 # Clone the repository
 git clone https://github.com/XeradSE/Calculatrice.git
